@@ -1,0 +1,5 @@
+mafan.egg-info/PKG-INFO
+mafan.egg-info/SOURCES.txt
+mafan.egg-info/dependency_links.txt
+mafan.egg-info/top_level.txt
+mafan_traditional/__init__.py
